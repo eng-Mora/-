@@ -52,5 +52,5 @@
         </div>
     </div>
 
-        <h2>Developed by Eng: Mora</h2>
+            <p>Developed by Eng: Mora</p>
     
