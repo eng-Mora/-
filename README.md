@@ -19,6 +19,17 @@
         .video-container h2 {
             margin-bottom: 10px;
         }
+        footer {
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: #2c2c2c;
+            color: white;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+        }
     </style>
 </head>
 <body>
@@ -41,3 +52,5 @@
         </div>
     </div>
 
+        <h2>Developed by Eng: Mora</h2>
+    
