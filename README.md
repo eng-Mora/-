@@ -52,5 +52,5 @@
         </div>
     </div>
 
-            <p>Developed by Eng: Mora</p>
+            <p>Developed by Eng: Amr Mohamed</p>
     
