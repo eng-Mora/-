@@ -30,6 +30,12 @@
             font-family: Arial, sans-serif;
             font-size: 14px;
         }
+        .developer-info {
+            font-weight: bold;
+            color: #302967;
+            text-align: center;
+            margin: 20px 0;
+        }
     </style>
 </head>
 <body>
@@ -52,5 +58,5 @@
         </div>
     </div>
 
-            <p>Developed by Eng: Amr Mohamed</p>
-    
+    <p class="developer-info">Developed by Eng: Amr Mohamed</p>
+
